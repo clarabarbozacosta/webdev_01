@@ -1,3 +1,3 @@
 # webdev_01
 ## subtítulo
-Repositório para aual de GitHub
+Repositório para aula de GitHub
